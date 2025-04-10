@@ -19,5 +19,3 @@ O usuário deve informar:
 
 O programa então calcula o valor de cada parcela com acréscimos de juros mensais e taxa de pagamento. Em seguida, exibe as datas e valores de cada parcela.
 
-### 📦 Exemplo de entrada:
-
